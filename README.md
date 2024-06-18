@@ -7,6 +7,18 @@ With xlwings, you can tap into Python's extensive scientific libraries (such as 
 [![YouTube Video](https://img.youtube.com/vi/_aPa9gZ1s0M/0.jpg)](https://youtu.be/_aPa9gZ1s0M)
 
 
+
+## 🤓 Check Out My Excel Add-ins
+I've developed some handy Excel add-ins that you might find useful:
+
+- 📊 **[Dashboard Add-in](https://pythonandvba.com/grafly)**: Easily create interactive and visually appealing dashboards.
+- 🤪 **[Emoji Add-in](https://pythonandvba.com/emojify)**: Add a touch of fun to your spreadsheets with emojis.
+- 🛠️ **[MyToolBelt Add-in](https://pythonandvba.com/mytoolbelt)**: A versatile toolbelt for Excel, featuring:
+  - Creation of Pandas DataFrames and Jupyter Notebooks from Excel ranges
+  - ChatGPT integration for advanced data analysis
+  - And much more!
+
+
 ## Get to Know Me & Stay Connected
 - 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
